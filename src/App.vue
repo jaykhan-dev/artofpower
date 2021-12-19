@@ -9,12 +9,8 @@ export default {
 </script>
 
 <template>
-<div class="">
-  
+<div class="">  
   <Navigation />
-    
-
-
 </div>
 </template>
 
